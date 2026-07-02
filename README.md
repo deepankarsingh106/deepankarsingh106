@@ -76,13 +76,13 @@
 
 <p align="center">
   <img
-    src="./assests/8f655417c2ea11d3294a2dce4efd0490.gif"
+    src="./assests/remove_only_the_white_backgrou.gif.gif"
     width="700"
     alt="Developer Animation"
   />
 </p>
 
-<hr>
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
