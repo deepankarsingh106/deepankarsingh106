@@ -83,6 +83,28 @@
 
 <hr>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:deepankarsingh106@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/deepankar-singh-290a6b325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/deepankarsingh106">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
+
+
+<hr>
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile! ⭐
