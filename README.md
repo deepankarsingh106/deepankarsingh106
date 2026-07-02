@@ -1,5 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepankarsingh106.deepankarsingh106" />
 
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner">
+</p>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepankar+Singh!;" />
 </h3>
