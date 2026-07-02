@@ -1,10 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepankarsingh106.deepankarsingh106" />
 
+<!-- <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assets/Telecommuting-pana.png"
+    assests/Telecommuting-pana.png
+    width="100%"
+    alt="Banner"
+  />
+</p> -->
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assets/Telecommuting-pana.png"
     width="100%"
-    alt="Banner"
+    alt="Telecommuting"
   />
 </p>
 
