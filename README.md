@@ -74,17 +74,15 @@
 
 <hr>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
   <img
-    src="./assests/remove_only_the_white_backgrou.gif.gif"
+    src="./assests/remove_only_the_white_backgrou.gif"
     width="700"
     alt="Developer Animation"
   />
 </p>
-
-
-
-<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:deepankarsingh106@gmail.com">
