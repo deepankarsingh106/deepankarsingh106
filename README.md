@@ -20,7 +20,7 @@
  <h3 align="center">🏆 Currently Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=REST+API+Development;Node.js+%7C+Express.js;Authentication+%7C+MongoDB;AI+Integration+with+LLM+APIs;Docker+%7C+AWS+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=REST+API+Development;Node.js+%7C+Express.js;Authentication+%7C+MongoDB;AI+Integration+with+LLM+APIs;Docker+%7C+AWS+Cloud" />
 </p>
     
  <hr/>
