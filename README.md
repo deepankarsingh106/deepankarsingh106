@@ -71,11 +71,12 @@
 </p>
 
 <hr>
-
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b> ⭐
+<br><br>
+<i>Always learning, always building.</i>
+</p>
 <hr/>
 
 <br/>
 
-
-
-<br/>
