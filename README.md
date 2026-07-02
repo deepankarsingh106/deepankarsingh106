@@ -81,13 +81,14 @@
   />
 </p>
 
+<hr>
 
-<p align="center">
+<div align="center">
 
-⭐ <b>Thanks for visiting my profile!</b> ⭐
+### ⭐ Thanks for visiting my profile! ⭐
 
-<br>
+*Always learning. Always building.*
 
-<i>Always learning. Always building.</i>
+</div>
 
-</p>
+<hr>
