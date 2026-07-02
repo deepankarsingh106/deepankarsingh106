@@ -1,14 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepankarsingh106.deepankarsingh106" />
 
-<!-- <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assets/Telecommuting-pana.png"
-    assests/Telecommuting-pana.png
-    width="100%"
-    alt="Banner"
-  />
-</p> -->
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assests/Telecommuting-pana.png"
@@ -16,7 +7,6 @@
     alt="Telecommuting"
   />
 </p>
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepankar+Singh!;" />
 </h3>
