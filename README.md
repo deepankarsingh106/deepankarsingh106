@@ -61,17 +61,26 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=deepankarsingh106&theme=github-dark-blue&border_radius=10" alt="GitHub Streak" />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=deepankarsingh106&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=deepankarsingh106&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&title_color=FFA116&icon_color=FFA116" alt="GitHub Stats" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=deepankarsingh106&show_icons=true&theme=github_dark&hide_border=true&title_color=FFA116&icon_color=FFA116"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarsingh106&layout=compact&theme=github_dark&hide_border=true&title_color=FFA116&langs_count=8" alt="Top Languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarsingh106&layout=compact&theme=github_dark&hide_border=true&title_color=FFA116"
+    alt="Top Languages"
+  />
 </p>
-
-<hr>
-<p align="center">
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
 <br><br>
 <i>Always learning,Always building.</i>
