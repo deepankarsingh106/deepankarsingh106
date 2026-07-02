@@ -9,21 +9,19 @@
 
 <br/>
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=REST+API+Development;Node.js+%7C+Express.js;Authentication+%7C+MongoDB;AI+Integration+with+LLM+APIs" />
-</h3>
-
-
 <div align="center">
     
   🔭 I’m currently working on **Building scalable applications**.
+  
   🌱 Backened Developer
+  
   ⚡ Competitive Programmer
+  
   🏆 Currently Polising :
   
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?  font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Rest API Developement+AI Integration with LLM APIs and AI-powered applications+;+Node.js | Express.js | Authentication!;" />
-    </h1>
+ <h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=REST+API+Development;Node.js+%7C+Express.js;Authentication+%7C+MongoDB;AI+Integration+with+LLM+APIs" />
+</h3>
     
 </div>
 
