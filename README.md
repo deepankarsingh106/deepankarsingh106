@@ -28,9 +28,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,mysql,nextjs,python,git,github,vscode" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter Notebook"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,mongodb,mysql,nextjs,python,git,github,linux,docker,vscode" />
 </div>
 <br/>
 <hr/>
