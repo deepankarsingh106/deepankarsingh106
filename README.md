@@ -57,7 +57,6 @@
 <br/><br/><br/>
 </div>
 
-<hr/>
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -69,8 +68,16 @@
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=deepankarsingh106&show_icons=true&theme=github_dark&hide_border=true&title_color=FFA116&icon_color=FFA116"
+    src="https://github-readme-stats.vercel.app/api?username=deepankarsingh106&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1800"
     alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarsingh106&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
   />
 </p>
 
