@@ -81,13 +81,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarsingh106&layout=compact&theme=github_dark&hide_border=true&title_color=FFA116"
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
 
