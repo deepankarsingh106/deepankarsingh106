@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepankarsingh106.deepankarsingh106" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepankar Singh!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=REST+API+Development;Node.js+%7C+Express.js;Authentication+%7C+MongoDB;AI+Integration+with+LLM+APIs" />
 </h1>
 
 <h3 align="center"> 💻 Pre-Final Year @ MNIT Jaipur,India </h3>
@@ -48,26 +48,9 @@
 
   <img
     alt="snake eating my contributions"
-    src="https://raw.githubusercontent.com/DeepankarSingh106/DeepankarSingh106/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/deepankarSingh106/deepankarSingh106/output/github-contribution-grid-snake-dark.svg"
   />
 </div>
 <hr/>
 
 
-
-## Hi there 👋
-
-<!--
-**deepankarsingh106/deepankarsingh106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
