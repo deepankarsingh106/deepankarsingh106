@@ -12,7 +12,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assests/Telecommuting-pana.png"
-    width="100%"
+    width="50%"
     alt="Telecommuting"
   />
 </p>
