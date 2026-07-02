@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assets/Telecommuting-pana.png"
+    src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assests/Telecommuting-pana.png"
     width="100%"
     alt="Telecommuting"
   />
