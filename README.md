@@ -99,9 +99,9 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+<h2> ⭐ Thanks for visiting my profile! ⭐ </h2>h2>
 
-*Always learning. Always building.*
+<i>Always learning. Always building.<i>
 
 </div>
 
