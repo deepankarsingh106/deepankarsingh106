@@ -78,9 +78,9 @@
 
 <p align="center">
   <img
-    src="./assets/8f655417c2ea11d3294a2dce4efd0490.gif"
-    alt="Developer Animation"
+    src="assets/8f655417c2ea11d3294a2dce4efd0490.gif"
     width="700"
+    alt="Developer Animation"
   />
 </p>
 
