@@ -11,13 +11,13 @@
 
 <div align="center">
     
-  🔭 I’m currently working on **Building scalable applications**.
-  
-  🌱 Backened Developer
-  
-  ⚡ Competitive Programmer
-  
-  🏆 Currently Polising :
+  🔭 Building Scalable Backend Applications
+
+🌱 Backend Developer
+
+⚡ Competitive Programmer
+
+🏆 Currently Learning :
   
  <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=REST+API+Development;Node.js+%7C+Express.js;Authentication+%7C+MongoDB;AI+Integration+with+LLM+APIs" />
@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,nodejs,mongodb,mysql,jupyterNotebook,docker,git,github,linux,vscode" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,nextjs,mysql" /><br>
 </div>
 
@@ -81,6 +81,7 @@
     alt="Top Languages"
   />
 </p>
+
 <p align="center">
 
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
