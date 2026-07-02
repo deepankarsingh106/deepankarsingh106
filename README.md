@@ -81,11 +81,12 @@
     alt="Top Languages"
   />
 </p>
+<p align="center">
+
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
-<br><br>
-<i>Always learning,Always building.</i>
+
+<br>
+
+<i>Always learning. Always building.</i>
+
 </p>
-<hr/>
-
-<br/>
-
