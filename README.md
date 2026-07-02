@@ -72,6 +72,20 @@
 
 <hr>
 
+<hr>
+
+<h2 align="center">🎬 Meet Me</h2>
+
+<p align="center">
+  <img
+    src="./assets/8f655417c2ea11d3294a2dce4efd0490.gif"
+    alt="Developer Animation"
+    width="700"
+  />
+</p>
+
+<hr>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -87,10 +101,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<hr>
-
-
 
 <hr>
 
