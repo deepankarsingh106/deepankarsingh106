@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepankarsingh106.deepankarsingh106" />
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner">
+  <img src="./assets/Telecommuting-pana.png" width="100%" alt="Banner">
 </p>
 
 <h3 align="center">
