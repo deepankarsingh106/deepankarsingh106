@@ -74,7 +74,7 @@
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
 <br><br>
-<i>Always learning, always building.</i>
+<i>Always learning,Always building.</i>
 </p>
 <hr/>
 
