@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepankarsingh106.deepankarsingh106" />
 
 <p align="center">
-  <img src="./assets/Telecommuting-pana.png" width="100%" alt="Telecommuting-pana">
+  <img src="https://raw.githubusercontent.com/deepankarsingh106/deepankarsingh106/main/assets/Telecommuting-pana.png" width="100%" alt="Banner"/>
 </p>
 
 <h3 align="center">
@@ -26,7 +26,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=REST+API+Development;Node.js+%7C+Express.js;Authentication+%7C+MongoDB;AI+Integration+with+LLM+APIs;Docker+%7C+AWS+Cloud" />
 </p>
-    
+
+  </div>
  <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
