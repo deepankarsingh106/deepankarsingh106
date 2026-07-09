@@ -12,7 +12,7 @@
 </h3>
 
 
-<h3 align="center"> 💻 Pre-Final Year Student @ MNIT Jaipur,India </h3>
+<h3 align="center"> 💻 Pre-Final Year CSE Student @ MNIT Jaipur,India </h3>
 
 <br/>
 
