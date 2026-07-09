@@ -64,7 +64,7 @@
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=deepankarsingh106&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-t58r.vercel.app/api?username=deepankarsingh106&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
@@ -72,7 +72,7 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarsingh106&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-t58r.vercel.app/api/top-langs/?username=deepankarsingh106&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
     alt="Top Languages"
   />
 </p>
