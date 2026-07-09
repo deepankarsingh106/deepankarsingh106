@@ -64,7 +64,7 @@
 
   <img
     height="170"
-    src="https://github-readme-stats-t58r.vercel.app/api?username=deepankarsingh106&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-t58r.vercel.app/api?username=deepankarsingh106&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
