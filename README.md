@@ -41,7 +41,7 @@
 <br/>
 <hr/>
  
---- 
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
@@ -52,6 +52,7 @@
 <br/><br/><br/>
 </div>
 
+--- 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
