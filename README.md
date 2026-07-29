@@ -89,10 +89,7 @@
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<video src="[https://github.com/user-attachments/assets/12345678-abcd-efgh-ijkl-123456789abc](https://github.com/user-attachments/assets/d36903a4-ff20-4afb-a4af-5a99caf9cba0)"
-       controls
-       width="800">
-</video>
+https://github.com/user-attachments/assets/d36903a4-ff20-4afb-a4af-5a99caf9cba0
 
 <p align="center">
   <a href="mailto:deepankarsingh106@gmail.com">
