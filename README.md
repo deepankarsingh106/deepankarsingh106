@@ -89,7 +89,7 @@
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-https://github.com/user-attachments/assets/d36903a4-ff20-4afb-a4af-5a99caf9cba0
+
 
 <p align="center">
   <a href="mailto:deepankarsingh106@gmail.com">
